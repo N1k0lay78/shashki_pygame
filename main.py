@@ -2,6 +2,7 @@
 
 from GameUI import GameUI
 
-game = GameUI()
+# Здесь был Rjkzavr
 
+game = GameUI()
 game.run()
